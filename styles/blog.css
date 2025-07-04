@@ -4,3 +4,7 @@ h2 {
     font-weight: 100;
     text-align: center;
 }
+div {
+    background-color: aquamarine;
+    margin: 10px;
+}
