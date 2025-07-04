@@ -7,4 +7,5 @@ h2 {
 div {
     background-color: aquamarine;
     margin: 10px;
+    border: 10px solid black;
 }
